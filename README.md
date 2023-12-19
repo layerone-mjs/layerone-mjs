@@ -2,7 +2,7 @@
 - 👀 I’m interested in acquiring SaaS products 
 - 🌱 I’m currently starting a company that buys then builds
 - 💞️ I’m looking to collaborate on great products
-- 📫 How to reach me mike@layerone.llc
+- 📫 How to reach me mike@layeronehq.com
 
 <!---
 layerone-mjs/layerone-mjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
